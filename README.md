@@ -3,7 +3,7 @@
   <img src="logo.png" width="400" alt="MINST DATABASE">
 </p>
 
-* [jakunaka] is es una red neuronal con Tensorflow y Keras en Python para clasificar dígitos escritos a mano. Basado de [MINST DATABASE](https://yann.lecun.com/exdb/mnist/)
+jakunaka es una red neuronal con Tensorflow y Keras en Python para clasificar dígitos escritos a mano. Basado de [MINST DATABASE](https://yann.lecun.com/exdb/mnist/)
 
 ## CONTENIDO
 * jakunaka_reader.py : script que lee los archivos
