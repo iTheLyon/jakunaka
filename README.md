@@ -7,11 +7,13 @@ jakunaka es una red neuronal con Tensorflow y Keras en Python para clasificar d√
 
 ## CONTENIDO
 * jakunaka_reader.py : script que lee los archivos
+
   ** train-images.idx3-ubyte
   ** train-labels.idx1-ubyte
   ** t10k-images.idx1-ubyte
   ** t10k-labels.idx1-ubyte
-y luego convierte los bytes en pixeles para luego elegir aleatoriamente de 0 a 9 digitos como imagen asi como el label y graficarlos con matplotlib.
+
+  y luego convierte los bytes en pixeles para luego elegir aleatoriamente de 0 a 9 digitos como imagen asi como el label y graficarlos con matplotlib.
 
 * jakunaka.py : script de red neuronal Tensorflow y Keras que identifica una imagen como digito .
 
